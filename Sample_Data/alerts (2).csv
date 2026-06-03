@@ -1,0 +1,2 @@
+alert_date,current_date,previous_date,region,product,category,current_revenue,previous_revenue,impact_amount,change_percent,severity,status
+2026-06-02 20:57:34,5/1/2026,2026-04-30,North,Laptop,Technology,50000.0,73900.0,23900.0,-32.34,CRITICAL,OPEN
